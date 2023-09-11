@@ -140,7 +140,7 @@
         <div class="item-wrapper">
             <div class="item " *ngFor="let item of detailsArray ; let i = index">
                 <span>{{item.name}}</span>
-                <div class="advacnce">
+                <div class="advacnce" (click)="selected(item)">
                     <div class="hidden-content">
                      <div> Product : {{item.name}}</div> 
                      <div> Price : {{item.price}}</div> 
@@ -148,7 +148,7 @@
                     </div>
                    
                  </div>
-                <div class="img-container" (click)="selected(item)">
+                <div class="img-container" >
                     <img [src]="item.image" alt="">
                 </div>
               
