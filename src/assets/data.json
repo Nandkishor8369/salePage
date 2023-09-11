@@ -1,0 +1,128 @@
+ [
+    {
+      "id": 1,
+      "name": "comuter",
+      "price": "130",
+      "category": "computers",
+      "description": "",
+      "image": "../../../assets/img/itmes-img/cpu.jpg",
+      "quantity": 1
+    },
+    {
+      "id": 2,
+      "name": "NOTE BOOK",
+      "price": "130",
+      "category": "NOTE BOOK",
+      "description": "",
+      "image": "../../../assets/img/itmes-img/notebook.jpg",
+      "quantity": 1
+    },
+    {
+      "id": 3,
+      "name": "comuter",
+      "price": "130",
+      "category": "computers",
+      "description": "",
+      "image": "../../../assets/img/itmes-img/cpu.jpg",
+      "quantity": 1
+    },
+    {
+      "id": 4,
+      "name": "NOTE BOOK",
+      "price": "130",
+      "category": "NOTE BOOK",
+      "description": "",
+      "image": "../../../assets/img/itmes-img/notebook.jpg",
+      "quantity": 1
+    },
+    {
+      "id": 5,
+      "name": "sweater",
+      "price": "1",
+      "category": "Clothing",
+      "description": "fashion, clothes , sweater, wool, cardigan,...",
+      "image": "../../../assets/img/itmes-img/jackets.jpg",
+      "quantity": 1
+    },
+    {
+      "id": 6,
+      "name": "jacket",
+      "price": "190",
+      "category": "Clothing",
+      "description": "winter jacket ",
+      "image": "../../../assets/img/itmes-img/jackets.jpg",
+      "quantity": 1
+    },
+    {
+      "id": 7,
+      "name": "GRAPES",
+      "price": "190",
+      "category": "fruites",
+      "image": "../../../assets/img/itmes-img/grapes.jpg",
+      "quantity": 1
+    },
+    {
+      "id": 8,
+      "name": "ORANGE",
+      "price": "190",
+      "category": "fruites",
+      "image": "../../../assets/img/itmes-img/orange.jpg",
+      "quantity": 1
+    },
+    {
+      "id": 9,
+      "name": "APPLE",
+      "price": "190",
+      "category": "fruites",
+      "image": "../../../assets/img/itmes-img/apple.jpg",
+      "quantity": 1
+    },
+    {
+      "id": 10,
+      "name": "GRAPES",
+      "price": "190",
+      "category": "fruites",
+      "image": "../../../assets/img/itmes-img/grapes.jpg",
+      "quantity": 1
+    },
+    {
+      "id": 11,
+      "name": "ORANGE",
+      "price": "190",
+      "category": "fruites",
+      "image": "../../../assets/img/itmes-img/orange.jpg",
+      "quantity": 1
+    },
+    {
+      "id": 12,
+      "name": "APPLE",
+      "price": "190",
+      "category": "fruites",
+      "image": "../../../assets/img/itmes-img/apple.jpg",
+      "quantity": 1
+    },
+    {
+      "id": 13,
+      "name": "GRAPES",
+      "price": "190",
+      "category": "fruites",
+      "image": "../../../assets/img/itmes-img/grapes.jpg",
+      "quantity": 1
+    },
+    {
+      "id": 14,
+      "name": "ORANGE",
+      "price": "190",
+      "category": "fruites",
+      "image": "../../../assets/img/itmes-img/orange.jpg",
+      "quantity": 1
+    },
+    {
+      "id": 15,
+      "name": "APPLE",
+      "price": "190",
+      "category": "fruites",
+      "image": "../../../assets/img/itmes-img/apple.jpg",
+      "quantity": 1
+    }
+  ]
